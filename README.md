@@ -1,2 +1,1 @@
-# compilador-en-java
-Compilador que contiene un analizador léxico, sintactico y semantico.
+Basic structure of a compiler with the JFlex, CompilerTools and FlatLaf libraries
